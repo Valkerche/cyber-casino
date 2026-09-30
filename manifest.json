@@ -1,0 +1,17 @@
+{
+  "name": "赛博赌场",
+  "short_name": "赛博赌场",
+  "description": "九宫格老虎机 + 黑杰克 + 光环抽取，单文件离线可玩。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070908",
+  "theme_color": "#070908",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
